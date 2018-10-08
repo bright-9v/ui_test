@@ -1,0 +1,26 @@
+2018-10-08 08:30:34,210 - BrowserEngine - INFO - You had select Chrome browser. 
+2018-10-08 08:30:34,210 - BrowserEngine - INFO - The test server url is https://te-ething.123eblog.com/#/ 
+2018-10-08 08:30:38,020 - BrowserEngine - INFO - Starting Chorme browser 
+2018-10-08 08:31:12,336 - BrowserEngine - INFO - Open url https://te-ething.123eblog.com/#/ 
+2018-10-08 08:31:12,343 - BrowserEngine - INFO - Set implicitly wait 10 seconds 
+2018-10-08 08:31:24,777 - BasePage - INFO - Had find the element ' 事事号 ' successfulby xpath via value://*[@id="es-body"]/div[1]/div/div/div[2]/div/div/div/div[2]/div/div/div/div[1]/ul/li[1]/a 
+2018-10-08 08:31:25,885 - BasePage - INFO - The emement was click 
+2018-10-08 08:31:27,215 - BasePage - INFO - Had find the element ' 统计 ' successfulby link_text via value:统计 
+2018-10-08 08:31:27,643 - BasePage - INFO - The emement was click 
+2018-10-08 08:31:27,645 - TestCalcTable - INFO - 已点击统计按钮 
+2018-10-08 08:31:28,889 - BasePage - INFO - Had find the element ' 工作表统计 ' successfulby link_text via value:工作表统计 
+2018-10-08 08:31:29,489 - BasePage - INFO - The emement was click 
+2018-10-08 08:31:29,489 - TestCalcTable - INFO - 已点击工作表统计 
+2018-10-08 08:31:29,490 - TestCalcTable - INFO - 已进入工作表统计界面 
+2018-10-08 08:31:30,154 - BasePage - INFO - Had find the element ' 点击选择 ' successfulby xpath via value://*[@id="es-layout-content-body"]/div/div/div[3]/div/div[1]/div[1]/div/div[1]/button 
+2018-10-08 08:31:30,982 - BasePage - INFO - The emement was click 
+2018-10-08 08:31:30,983 - TestCalcTable - INFO - 已点击选择工作表 
+2018-10-08 08:31:32,427 - BasePage - INFO - Had find the element ' 固定格式表 ' successfulby link_text via value:固定格式表 
+2018-10-08 08:31:33,818 - BasePage - INFO - The emement was click 
+2018-10-08 08:31:33,819 - TestCalcTable - INFO - 已点击固定格式表 
+2018-10-08 08:31:37,993 - BasePage - INFO - Had find the element ' 预警
+不改名字成绩录入长长长 ' successfulby xpath via value://*[@id="es-body"]/div[1]/div/div/div[2]/div/div/div[1]/div[2]/div/div/div/div[1]/div[2]/div/ul/li[2]/div 
+2018-10-08 08:31:40,498 - BasePage - INFO - The emement was click 
+2018-10-08 08:31:43,794 - BasePage - INFO - The emement was click 
+2018-10-08 08:31:45,001 - BasePage - INFO - Had find the element ' 查询 ' successfulby xpath via value://*[@id="es-layout-content-body"]/div/div/div[3]/div/div[3]/div[2]/button[2] 
+2018-10-08 08:31:45,750 - BasePage - INFO - The emement was click 
